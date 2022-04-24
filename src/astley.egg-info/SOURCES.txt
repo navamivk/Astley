@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/astley/__init__.py
+src/astley/astley.py
+src/astley.egg-info/PKG-INFO
+src/astley.egg-info/SOURCES.txt
+src/astley.egg-info/dependency_links.txt
+src/astley.egg-info/top_level.txt

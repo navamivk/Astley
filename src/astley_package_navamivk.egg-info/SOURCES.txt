@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/astley/__init__.py
+src/astley/astley.py
+src/astley_package_navamivk.egg-info/PKG-INFO
+src/astley_package_navamivk.egg-info/SOURCES.txt
+src/astley_package_navamivk.egg-info/dependency_links.txt
+src/astley_package_navamivk.egg-info/top_level.txt
